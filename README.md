@@ -35,7 +35,7 @@
 ---
 
 ## 📎 Ссылки
-- [Код тестов](src/test/java/CalculatorTest.java)
+- [Код тестов](src/TrafficTicketTest.java)
 - [Основной класс](src/main/java/Calculator.java)
 
 *Дата: 11.03.2026*
