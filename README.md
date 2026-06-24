@@ -35,7 +35,7 @@
 ---
 
 ## 📎 Ссылки
-- [Код тестов]([src/TrafficTicketTest.java](https://github.com/theplatingit/lab-junit-cycles-Rakipov/blob/main/TrafficTicket/src/TrafficTicketTest.java))
+- [Код тестов](https://github.com/theplatingit/lab-junit-cycles-Rakipov/blob/main/TrafficTicket/src/TrafficTicketTest.java)
 - [Основной класс](src/main/java/Calculator.java)
 
 *Дата: 11.03.2026*
